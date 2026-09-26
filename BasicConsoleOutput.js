@@ -1,7 +1,7 @@
 const Student_name = "Krishna Rai";
 var Age = 19;
 Age = 20;
-let course ="BTech";
+let course ="BCA";
 var marks = 99;
 marks = 100;
 let college_name = "SITM";
